@@ -10,7 +10,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 public class Student {
-    private String code;
+    private int code;
     private String firstName;
     private String lastName;
 }
